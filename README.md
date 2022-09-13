@@ -1,16 +1,22 @@
-### Hi there 👋
+```
+//-- Daniel Elwell --//
 
-<!--
-**frozein/frozein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+// a graphics and games programmer interested in low-level development. 
+// currently pursuing a B.S. in computer science at the Rutgers University Honors College (New Brunwsick). 
+// working on a video game using voxel raytracing.
 
-Here are some ideas to get you started:
+//------------------------------------------------------//
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+// watch my devlogs: youtube.com/c/frozein/
+// play my game:     dan-and-suman.itch.io/green-planet
+
+//------------------------------------------------------//
+
+/* used technologies:
+ *
+ * C
+ * C++
+ * Java
+ * C#
+ */
+```
