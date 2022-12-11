@@ -8,7 +8,7 @@
 //------------------------------------------------------//
 
 // watch my devlogs: youtube.com/c/frozein/
-// play my game:     dan-and-suman.itch.io/green-planet
+// play my games:    dan-and-suman.itch.io/
 
 //------------------------------------------------------//
 
