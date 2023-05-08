@@ -1,8 +1,8 @@
 ```
 //-- Daniel Elwell --//
 
-// a graphics and games programmer interested in low-level development
-// currently pursuing a B.S. in computer science and mathematics at the Rutgers University Honors College (New Brunswick)
+// graphics and games programmer; interested in low-level development
+// B.S. in cs and math @ Rutgers NB Honors College
 // working on a video game using voxel raytracing
 
 //------------------------------------------------------//
@@ -21,6 +21,5 @@
  *
  * OpenGL
  * Vulkan
- * SDL2
  */
 ```
