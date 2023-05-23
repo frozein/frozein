@@ -8,7 +8,7 @@
 //------------------------------------------------------//
 
 // watch my devlogs: youtube.com/c/frozein/
-// play my games:    dan-and-suman.itch.io/
+// wishlist my game: https://store.steampowered.com/app/2435320/Terra_Toy/
 
 //------------------------------------------------------//
 
