@@ -3,7 +3,7 @@
 
 // graphics and games programmer; interested in low-level development
 // B.S. in cs and math @ Rutgers NB Honors College
-// working on a video game using voxel raytracing
+// working on Terra Toy, a cozy planet builder
 
 //------------------------------------------------------//
 
