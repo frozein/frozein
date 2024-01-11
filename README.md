@@ -2,13 +2,13 @@
 //-- Daniel Elwell --//
 
 // graphics and games programmer; interested in low-level development
-// B.S. in cs and math @ Rutgers NB Honors College
-// working on Terra Toy, a cozy planet builder
+// pursuing B.S. in cs and math @ Rutgers NB Honors College
+// working on a new graphics project
 
 //------------------------------------------------------//
 
 // watch my devlogs: youtube.com/c/frozein/
-// wishlist my game: https://store.steampowered.com/app/2435320/Terra_Toy/
+// check out my game: https://store.steampowered.com/app/2435320/Terra_Toy/
 
 //------------------------------------------------------//
 
@@ -17,7 +17,7 @@
  * C
  * C++
  * Java
- * C#
+ * Python
  *
  * OpenGL
  * Vulkan
