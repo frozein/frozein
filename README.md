@@ -1,9 +1,8 @@
 ```
 //-- Daniel Elwell --//
 
-// graphics and games programmer; interested in low-level development
-// pursuing B.S. in cs and math @ Rutgers NB Honors College
-// working on a new graphics project
+// leading media compression and graphics research at True3D labs
+// hobbyist games programmer
 
 //------------------------------------------------------//
 
@@ -12,14 +11,14 @@
 
 //------------------------------------------------------//
 
-/* used languages/technologies:
+/* favorite languages/technologies:
  *
  * C
  * C++
- * Java
  * Python
  *
  * OpenGL
  * Vulkan
+ * WebGPU
  */
 ```
