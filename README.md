@@ -1,8 +1,8 @@
 ```
 //-- Daniel Elwell --//
 
-// leading media compression and graphics research at True3D
-// hobbyist games programmer
+// software engineer at Hudson River Trading
+// hobbyist graphics/GPU/games programmer
 
 // danielelwell.dev
 ```
